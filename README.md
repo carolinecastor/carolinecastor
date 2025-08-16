@@ -1,4 +1,7 @@
-<h1 align="center">Hello World, I'm Caroline Castro</h1>
+<h1 align="center">
+  Hello World, I'm Caroline Castro
+  <img src="https://camo.githubusercontent.com/5bf4f0de613336710635379c7a40e50e0ea9aeea351031a6b87e00c301394f2a/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f373333332d706172726f7464616e63652e676966" width="30"/>
+</h1>
 
 ###
 
